@@ -1,0 +1,2 @@
+docker pull ghcr.io/logseq/logseq-webapp:latest
+docker run -d --rm -p 3001:80 ghcr.io/logseq/logseq-webapp:latest.
