@@ -1,0 +1,13 @@
+version: "3"
+services:
+  heimdall:
+    image: bhickta/hemidall
+    container_name: heimdall 
+    restart: unless-stopped
+    environment:
+      - PGID=1000
+      - PUID=1000
+    ports:
+      - 49153:443
+    volumes:
+      - ./config:/config
