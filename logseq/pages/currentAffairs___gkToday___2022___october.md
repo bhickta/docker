@@ -1,0 +1,30 @@
+- #institution/unesco 50 list india handicraft
+- unicef #fact/report, 80% #child/childMarriages down if #education/higherEducation to #women/girl
+- #company/mou #international google 1st cloud @greece
+- gurram jashuva people poet of #state/andhraPradesh #culture/literature #social/socialEvils
+- #environment/pollution/zeroEmission #infrastructure/transport/vehicle #policy #ir/usa/mou califoria
+- #culture/literature/promote sanskrit #institution/iccr with #company/mou #national
+- #policy #state/uttarPradesh state tranformation commission
+- changemaker #award/i/i by unsdg to srishti bakshi #social/genderBasedvoilence
+- #tourism/adventureTourism 1st #state/uttrakhand
+- iifl wealth rich list 1st nikhil kamath(zerodha) under 40 #ranking #individual
+- carbon calculator feature mastercard #company #new
+- swachh survekshan 2022 indore #ranking #national
+- 3rd vande bharat mumbai - ahmedabad #infrastructure/transport/railway #new
+- ugc 25 seat to foreigner #internationalization #education/higherEducation
+- #day/international older person "resilence of older in changing world"
+- anil kumar #appointment/international @iaf(astronautical fed)
+- swachh bharat diwas 2nd oct #day/national
+- list stock min 300cr net worth + ca9%@3yrs + 15crprofit for #banks/rrb #guidelines/rbi
+- akash tripathi ceo mygov #appointment/govt/not-important
+- melting ice and acidification @arctic ocean #environment/research
+- #sports/f1 singapore grandprix 22 sergio perez
+- bhed mata fair #state/gujarat camel fair nomads #culture/fair
+- #country/uk scrap wealth tax #policy/international
+- digital india conference #host/national #state/delhi
+- sanitary product tax slash #crisis/international by #country/srilanka
+- 69% housed owned by #women #policy/output under pmAwasYojana
+- canada india found award anil agarwal #award/i/n
+- shyamji krishna varma #state/gujarat formed indina home rule society, indian house, indian sociologist @london #history/mih/freedomFighter
+-
+-
